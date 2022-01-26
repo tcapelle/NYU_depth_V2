@@ -1,0 +1,7 @@
+fastcore
+fastdownload
+jupyterlab
+matplotlib
+numpy
+scipy
+pillow
